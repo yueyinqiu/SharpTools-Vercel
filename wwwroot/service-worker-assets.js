@@ -45,8 +45,12 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-fm9gLMFQiu8ZGS3b0EjNtuxF7C67WpdhITvQqros2gM=",
+      "hash": "sha256-99XHL\/eHy0UW711jUH0Xj6b3gQyPzW2TmJ8VZDQUk1c=",
       "url": "_framework\/blazor.boot.json"
+    },
+    {
+      "hash": "sha256-uoYAk+bBp2ABiausqn3Ix\/w9WlRBz9yFwEvvYZoT8Fc=",
+      "url": "_framework\/Blazor.DownloadFileFast.wasm"
     },
     {
       "hash": "sha256-xHBGFCMjDjvvTwtMvgaMBNmQk9JdVhGmws2\/GMZlxrI=",
@@ -61,11 +65,11 @@
       "url": "_framework\/Microsoft.AspNetCore.Components.wasm"
     },
     {
-      "hash": "sha256-ap\/hW8ztSpM2TWhfMNpf82Pz74XhP4IOLH3UNO9utKs=",
+      "hash": "sha256-\/JgO21WccOLwpANVYKEMPunkJ7+Am2AtlGdQYCBhYSI=",
       "url": "_framework\/Microsoft.AspNetCore.Components.Web.wasm"
     },
     {
-      "hash": "sha256-0IDGNik2HnNlP0\/4OjBCwcXqDxxqPbiI9H2l0yimnOc=",
+      "hash": "sha256-4GYrUxBluLwtK0O8XX1imJw8TCzyai9QK6bYCsYLsek=",
       "url": "_framework\/Microsoft.AspNetCore.Components.WebAssembly.wasm"
     },
     {
@@ -81,7 +85,7 @@
       "url": "_framework\/Microsoft.Extensions.Configuration.wasm"
     },
     {
-      "hash": "sha256-aOvchT4Yr0iDG8LLySzhi1ixSeBpuSpI3SExFHAGHSo=",
+      "hash": "sha256-lHzuKvB7hdqi2RKvnLztMXotUL2aCpM2O8tjg\/jB7Hg=",
       "url": "_framework\/Microsoft.Extensions.DependencyInjection.Abstractions.wasm"
     },
     {
@@ -97,7 +101,7 @@
       "url": "_framework\/Microsoft.Extensions.Localization.wasm"
     },
     {
-      "hash": "sha256-AaTSagWsipPVdKd9gmBcL0HSIqYe6PpJRJ\/cBoHUvUw=",
+      "hash": "sha256-63dW+01yd+UshVbjofFFrwCUcl4ujh7d9boKK7iK22c=",
       "url": "_framework\/Microsoft.Extensions.Logging.Abstractions.wasm"
     },
     {
@@ -113,19 +117,19 @@
       "url": "_framework\/Microsoft.Extensions.Primitives.wasm"
     },
     {
-      "hash": "sha256-xA6WZ\/qJYSpIVN\/cRJmsctenrQidtmWikG6iBHwRPMw=",
+      "hash": "sha256-7ocdBjk0N7mbVdibbtK5IknxvvqAD3r7fCQGsmF6Pww=",
       "url": "_framework\/Microsoft.JSInterop.wasm"
     },
     {
-      "hash": "sha256-CQVLCKiSxLN5ghyJZG3mhnMGRROdqrbNUjtAXB0nWb8=",
+      "hash": "sha256-yT7ekGcAlfsHoY+P4vo1mIbHFF1lmFNcBITW8b+8uqI=",
       "url": "_framework\/Microsoft.JSInterop.WebAssembly.wasm"
     },
     {
-      "hash": "sha256-yszAJZ1asvUdiK2dLl\/c1+E8MFntmwnS2hsROQ0rlWI=",
+      "hash": "sha256-ooZxlPKh\/Ic8Jtx6Na0ZhgWUw6uMXO5MMDje3MRbVSg=",
       "url": "_framework\/MudBlazor.wasm"
     },
     {
-      "hash": "sha256-RUGYtEjwmjAgbXbdheFgC8yF5IWoBH2MJQUrgtt9qXM=",
+      "hash": "sha256-JpymH5\/catlWPW9cS6zmrOHGdTAmFMY5ffEv8l4mlug=",
       "url": "_framework\/SharpTools.wasm"
     },
     {
@@ -133,11 +137,11 @@
       "url": "_framework\/System.Collections.Concurrent.wasm"
     },
     {
-      "hash": "sha256-DThI7uy5WsdSO4kFpc2PaQ32NSXJu7FeTuiR\/NBcU2M=",
+      "hash": "sha256-8jyDRkva+pFDS7jMOsK56BxJ9lU9n2FuQYrfvo8jp10=",
       "url": "_framework\/System.Collections.Immutable.wasm"
     },
     {
-      "hash": "sha256-SZJMbqKvSl5P5QrR2udibV39\/9sQQW9pYqtjGuwhCzU=",
+      "hash": "sha256-r7OqynQ47XVsEnl5JNc6y4jcFtw8zAXuXJrRHrunsXM=",
       "url": "_framework\/System.Collections.wasm"
     },
     {
@@ -157,7 +161,7 @@
       "url": "_framework\/System.ComponentModel.wasm"
     },
     {
-      "hash": "sha256-NNs4+uDJa4zkvr2CGuwB6W1Rvm8vDbmUe5pUzpziPZs=",
+      "hash": "sha256-2FD78p83iHXOgPOk\/lQuR\/\/s4D1416w4lRKy6vVKOL4=",
       "url": "_framework\/System.Console.wasm"
     },
     {
@@ -177,7 +181,7 @@
       "url": "_framework\/System.ObjectModel.wasm"
     },
     {
-      "hash": "sha256-FsiYDobxZ0F7D1R6+RFoHXaE6mKi5+6aZ4VprLKyo\/Y=",
+      "hash": "sha256-zxJhQCJx8QwlYoAd\/1XUhTejp+MnlLvNuIy9lFu6Kkk=",
       "url": "_framework\/System.Private.CoreLib.wasm"
     },
     {
@@ -189,7 +193,7 @@
       "url": "_framework\/System.Runtime.InteropServices.JavaScript.wasm"
     },
     {
-      "hash": "sha256-CSOsxj3XA+l9TZ8aYKRgg+ne3OY+lTYhHOZx\/YpVx8E=",
+      "hash": "sha256-UxlK9uMoM+4M09235KTjmH7Bc2HHIr8KhA4OxRLpEtg=",
       "url": "_framework\/System.Runtime.wasm"
     },
     {
@@ -221,5 +225,5 @@
       "url": "_content\/MudBlazor\/MudBlazor.min.js"
     }
   ],
-  "version": "qe4\/WbDT"
+  "version": "Nv82l44+"
 };
