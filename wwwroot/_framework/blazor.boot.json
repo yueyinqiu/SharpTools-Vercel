@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "SharpTools",
   "resources": {
-    "hash": "sha256-eJaibh8RO3K4pACl0iG1x8U0NRlfKYA5mwhBR+pRbzM=",
+    "hash": "sha256-8YvUJLbLBifg9/zjm96as3xbd7Lb0KTpAe5N+BX7USk=",
     "jsModuleNative": {
       "dotnet.native.8.0.0.ugiejljnxl.js": "sha256-04bMBxhfbLnW49rU7yeIjQxj+PfrFjGbUEcwoFLEZ1g="
     },
@@ -37,7 +37,7 @@
       "Microsoft.JSInterop.wasm": "sha256-7ocdBjk0N7mbVdibbtK5IknxvvqAD3r7fCQGsmF6Pww=",
       "Microsoft.JSInterop.WebAssembly.wasm": "sha256-yT7ekGcAlfsHoY+P4vo1mIbHFF1lmFNcBITW8b+8uqI=",
       "MudBlazor.wasm": "sha256-0MU+6fChmrHSfGs/tCPs8GGy1Bc1yBHn7B45PB/CxNM=",
-      "SharpTools.wasm": "sha256-3tZKk9yKBW/8YPxOCI9RcPqF3JC95GO2c3u/TAfpogY=",
+      "SharpTools.wasm": "sha256-Fah6Cua/KtQGZX9UFh1XrvJT75ZuL9XXEyjD22REong=",
       "SixLabors.ImageSharp.wasm": "sha256-wT5FebvjzFh5xroA1u8Q9y2ZqCfvxvZZrJJoA/gmoaw=",
       "System.Collections.Concurrent.wasm": "sha256-pzRRX7HE9D/qvz1FnAYUScI8oHMhdzIycnUdl9x8p2c=",
       "System.Collections.Immutable.wasm": "sha256-0ZBgD+zN3vnKRNn4r58oazaCYUhOrhcXa3PruT4RRM0=",
